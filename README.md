@@ -1,3 +1,3 @@
 # py_search_engine_scraper
-# Used BeautifulSoup and requests
-# Scrapes google, bing and duckduck go search results
+# BeautifulSoup and requests
+# Searches Google, Bing and Duckduck Go
